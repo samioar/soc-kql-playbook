@@ -1,13 +1,16 @@
 # SOC KQL Playbook
 
-Collection of KQL queries for Tier 1 SOC investigations.
+Collection of KQL queries for SOC investigations.
 
 ## Structure
 
-Authentication
-Device
-Network
-Playbooks
+soc-kql-playbook
+│
+├── Authentication
+├── Device
+├── Network
+├── sql-injection-response.md
+└── tier1-cheatsheet.md
 
 ## Quick Start
 
