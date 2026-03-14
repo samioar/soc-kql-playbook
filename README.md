@@ -6,12 +6,17 @@ Collection of KQL queries for SOC investigations.
 
 soc-kql-playbook
 │
-├── Authentication
-├── Device
-├── Network
+├── Authentication/
+│   └── login-investigation.md
+│
+├── Device/
+│   └── process-analysis.md
+│
+├── Network/
+│   └── suspicious-ip.md
+│
 ├── sql-injection-response.md
 └── tier1-cheatsheet.md
-
 ## Quick Start
 
 Start with `tier1-cheatsheet.md` for instant triage queries.
