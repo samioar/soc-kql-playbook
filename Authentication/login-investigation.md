@@ -1,3 +1,4 @@
+```
 #Authentication domain
 
 Used when investigating login alerts, brute force attempts, impossible travel, suspicious IPs, or credential abuse.
@@ -80,3 +81,4 @@ union SigninLogs, AuditLogs, OfficeActivity
 This builds a timeline of authentication and actions performed by the account.
 
 ---
+```
